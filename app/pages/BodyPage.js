@@ -8,7 +8,7 @@ const BodyPage = () => {
       <p className="pt-2 text-center text-wrap w-1/2">
         Check if your website uses a proper robots.txt file. If there are URLs
         you do not want to be indexed by search engines, you can use the
-        "robots.txt" file to define <br></br> where the robots should not go.
+        "robots.txt" file to define where the robots should not go.
       </p>
     </div>
   );
